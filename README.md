@@ -66,6 +66,24 @@ Want to help improve Mary Linux?
 - Fork the project and submit pull requests  
 - Suggest features & improvements  
 
+Got it! Here’s an updated **⚠ WARNING** section for the README:  
+
+## **⚠ FINAL WARNING**  
+**Installing Mary Linux is irreversible!**  
+
+❌ **Once installation is complete, your Apple device will NEVER run iOS or iPadOS again.**  
+❌ **Factory resets, iTunes restores, and iCloud recovery will NOT work.**  
+❌ **Apple services like iMessage, Face ID, iCloud, and the App Store will be permanently removed.**  
+❌ **Apple will no longer recognize or support your device.**  
+
+**Reverting to iOS requires:**  
+✔ Accessing the bootloader manually  
+✔ Connecting to a computer and running Linux commands  
+✔ Detecting and flashing Apple’s proprietary drivers  
+✔ Advanced technical knowledge – **this is NOT a simple restore!**  
+
+🔴 **Proceed at your own risk! Once installed, there is no going back!**  
+
 ---
 
 ## **License**  
