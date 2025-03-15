@@ -1,7 +1,21 @@
 # **Mary Linux**  
 **Full Linux distribution for jailbroken iPhones & iPads**  
 
-Mary Linux is a custom Linux OS designed to run on jailbroken iPhones and iPads. It uses the **Ubuntu Linux kernel**, **PongoOS**, and **checkra1n** to boot, aiming to provide a full touchscreen Linux experience that performs better than iOS and iPadOS.
+Mary Linux is a custom Linux OS designed to run on jailbroken iPhones and iPads. It uses the **Ubuntu Linux kernel**, **PongoOS**, and **checkra1n** to boot, providing a full touchscreen Linux experience.  
+
+---
+
+## **⚠ WARNING**  
+**Installing Mary Linux will:**  
+❌ **Erase all data** on the device (full storage wipe)  
+❌ **Prevent future iOS updates** (Apple will no longer support the device)  
+❌ **Void your Apple warranty** (Apple will not repair or replace your device)  
+❌ **Remove Apple features** (Face ID, iCloud, App Store, iMessage, and other Apple services will no longer work)  
+❌ **Require a jailbroken device** (Mary Linux can only be installed on jailbroken iPhones/iPads)  
+
+🔴 **Proceed at your own risk! Once installed, there is no easy way back to iOS!**  
+
+---
 
 ## **Features**  
 ✔ Custom Ubuntu ARM64 kernel optimized for Apple devices  
